@@ -1,0 +1,120 @@
+
+
+body{
+    background-color: #000000;
+   
+    
+    
+}
+
+
+h1, h2{
+    text-align: center;
+    font-size:68px;
+    color:#0c130f;
+    margin: 38px 8 8 8;
+}
+
+h2{
+    text-align: center;
+    font-size: 58px;
+}
+
+p{
+    text-align: justify;
+    color: #ffffff;
+    background-color: rgb(201, 106, 137)
+    border green;
+}
+
+
+table{
+    text-align: center;
+    font-size: 50px;
+}
+
+img{
+    width: 400px
+}
+
+main{
+    
+    background-color:rgb(214, 146, 214);
+    margin: 0 150px 0  150px;
+    
+   
+}
+
+nav ul{ 
+    list-style: none;
+    padding: 0;
+    background-color: rgb(179, 208, 219);
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding:20px;
+    display: black;
+
+}
+
+
+nav li{
+    display: inline-block;
+    text-align: center;
+
+}
+
+nav li a:hover{
+    background-color: violet;
+}
+
+
+.parrafo{
+    color: white;
+}
+
+
+
+
+    
+footer{
+    color: white;
+}
+
+.lista1{
+    float: right;
+    margin: 50px 50px 50px 0 ;
+    color: #ffffff;
+    
+}
+
+.flotar{
+    color: #ffffff;
+    float: right;
+    margin: 0 300px 0 0 ;
+}
+
+.img{
+    width: auto;
+    margin: 0px 0 200px 500px;
+}
+
+.flotar1{
+    float: left;
+}
+
+.flotar2{
+    margin: 0 0 0 0
+}
+
+.lista2{
+    color: #ffffff;
+    float:right;
+    margin: 0 20px 200px 0
+}
